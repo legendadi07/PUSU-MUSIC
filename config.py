@@ -36,7 +36,7 @@ UPSTREAM_REPO = getenv(
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "LEGEND-ADI")
 GIT_TOKEN = getenv(
-    "GIT_TOKEN", https://telegra.ph/file/f289b11babcd5047be49e.mp4
+    "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/pusu_world01")
@@ -83,7 +83,7 @@ START_IMG_URL = getenv(
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/7d7e3169e7b59e6f9983f.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/aa833aa6cd61340dc61b5.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/59fa83d232d4d9dd3963a.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/852ff130e2adad4f039d1.jpg"
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
