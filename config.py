@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://telegra.ph/file/00668d3c4776e12947dc2.mp4",
+    "https://github.com/legendadi07/PUSUXMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "LEGEND-ADI")
 GIT_TOKEN = getenv(
