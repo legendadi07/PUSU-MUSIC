@@ -30,7 +30,10 @@ from config import BANNED_USERS, lyrical
         [
             "play",
             "pusu",
+            "susu",
             "vplay",
+            "vpusu",
+            "vsusu",
             "cplay",
             "cvplay",
             "playforce",
